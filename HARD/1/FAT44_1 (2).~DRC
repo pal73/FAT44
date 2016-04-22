@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : \Users\Pal\DEVICES\FAT44_dev\HARD\1\FAT44_1.PcbDoc
+Date     : 21.04.2016
+Time     : 11:00:38
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Pad F1-1(7.4627mm,80.1726mm)  Multi-Layer and                      Pad F1-1(7.4627mm,77.6726mm)  Top Layer   
+   Violation between Pad F1-2(7.4627mm,63.1726mm)  Multi-Layer and                      Pad F1-2(7.4627mm,60.6726mm)  Top Layer   
+   Violation between Pad F1-2(7.4627mm,58.1726mm)  Multi-Layer and                      Track (7.4627mm,40.3627mm)(7.4627mm,63.1726mm)  Bottom Layer   
+   Violation between Track (0mm,0mm)(0mm,100mm)  Keep-Out Layer and                      Track (1.35mm,17.35mm)(1.35mm,34.25mm)  Bottom Layer   
+   Violation between Track (0mm,0mm)(0mm,100mm)  Keep-Out Layer and                      Track (1.35mm,17.35mm)(6.15mm,12.55mm)  Bottom Layer   
+   Violation between Track (0mm,0mm)(0mm,100mm)  Keep-Out Layer and                      Track (1.35mm,34.25mm)(7.4627mm,40.3627mm)  Bottom Layer   
+Rule Violations :6
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.254mm) (All)
+   Violation         Track (33.8282mm,75.0782mm)(62.4265mm,75.0782mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (55.0116mm,75.2398mm)(55.0116mm,95.0046mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (54.85mm,75.0782mm)(55.0116mm,75.2398mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (36.6868mm,52.5132mm)(37.5126mm,52.5132mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (29.95mm,71.2mm)(33.8282mm,75.0782mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (29.95mm,59.25mm)(29.95mm,71.2mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (29.95mm,59.25mm)(36.6868mm,52.5132mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (35.1197mm,67.3782mm)(64.3782mm,67.3782mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (62.5116mm,86.0884mm)(62.5116mm,95.0046mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (62.5266mm,52.5272mm)(62.5266mm,67.3782mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (62.5126mm,52.5132mm)(62.5266mm,52.5272mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (35.0196mm,67.4782mm)(35.1197mm,67.3782mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (64.3782mm,67.3782mm)(69.3mm,72.3mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (69.3mm,72.3mm)(69.3mm,79.3mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (62.5116mm,86.0884mm)(69.3mm,79.3mm)  Bottom Layer  Actual Width = 3mm
+   Violation         Track (62.4265mm,75.0782mm)(62.5266mm,74.9782mm)  Bottom Layer  Actual Width = 3mm
+Rule Violations :16
+
+Processing Rule : Broken-Net Constraint ( (All) )
+   Violation         Net Net2_1   is broken into 2 sub-nets. Routed To 0.00%
+     Subnet : F1-1          Subnet : 2-1      Rule Violations :1
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad F1-1(7.4627mm,75.1726mm)  Multi-Layer and                      Pad F1-1(7.4627mm,77.6726mm)  Top Layer   
+   Violation between Pad F1-1(7.4627mm,80.1726mm)  Multi-Layer and                      Pad F1-1(7.4627mm,77.6726mm)  Top Layer   
+   Violation between Pad F1-2(7.4627mm,58.1726mm)  Multi-Layer and                      Pad F1-2(7.4627mm,60.6726mm)  Top Layer   
+   Violation between Pad F1-2(7.4627mm,63.1726mm)  Multi-Layer and                      Pad F1-2(7.4627mm,60.6726mm)  Top Layer   
+   Violation between Pad F1-2(7.4627mm,58.1726mm)  Multi-Layer and                      Track (7.4627mm,40.3627mm)(7.4627mm,63.1726mm)  Bottom Layer   
+Rule Violations :5
+
+
+Violations Detected : 28
+Time Elapsed        : 00:00:01
