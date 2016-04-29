@@ -1,0 +1,6 @@
+Added Component: Designator=JP3(2EDG-5.08-3P)
+Added Component: Designator=JP4(2EDG-5.08-3P)
+Added Component: Designator=K1(kuan)
+Added Member To Class: ClassName=34_14 Member=Component JP3 MHDR1X2
+Added Member To Class: ClassName=34_14 Member=Component JP4 Header 4
+Added Member To Class: ClassName=34_14 Member=Component K1 BS115

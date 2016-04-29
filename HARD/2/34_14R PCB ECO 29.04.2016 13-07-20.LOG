@@ -1,0 +1,15 @@
+Change Component Comment : Designator=JP3 Old Comment=MHDR1X2 New Comment=Header 3
+Added Pin To Net: NetName=NetJP1_30 Pin=JP1-30
+Added Pin To Net: NetName=NetJP1_30 Pin=K1-4
+Added Net: Name=NetJP1_30
+Added Pin To Net: NetName=NetJP3_1 Pin=JP3-1
+Added Pin To Net: NetName=NetJP3_1 Pin=K1-2
+Added Net: Name=NetJP3_1
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=K1-1
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP3_3 Pin=JP3-3
+Added Pin To Net: NetName=NetJP3_3 Pin=K1-3
+Added Net: Name=NetJP3_3
+Added Pin To Net: NetName=NetJP1_15 Pin=K1-5
+Added Room: Name=34_14
