@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 34_14R.PcbDoc   18.10.2016  11:43:37
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.711mm (27.992mil)      4                48.60 mm (1.91 Inch)
+T2        1mm (39.37mil)           48               163.60 mm (6.44 Inch)
+T3        1.5mm (59.055mil)        12               118.06 mm (4.65 Inch)
+---------------------------------------------------------------------------
+Totals                             64               330.25 mm (13.00 Inch)
+
+Total Processing Time : 0:00:07

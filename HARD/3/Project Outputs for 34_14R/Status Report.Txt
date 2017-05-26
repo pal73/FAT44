@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [34_14R.PrjPCB]
+   Generated File[34_14R.TXT]
+   Generated File[34_14R.DRL]
+   Generated File[34_14R.LDP]
+   Generated File[34_14R.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:43:37 On 18.10.2016
